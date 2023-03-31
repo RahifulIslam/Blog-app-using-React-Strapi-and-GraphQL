@@ -1,1 +1,1 @@
-# Blog-app-using-React-Strapi-GraphQL
+# Blog-app-React-Strapi-GraphQL
